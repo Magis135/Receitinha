@@ -1,0 +1,128 @@
+header {
+    background-color: rgb(187, 187, 187);
+    padding-bottom: 55px;
+}
+
+section {
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: crimson;
+    padding: 5px;
+}
+
+a.Menu {
+    float: right;
+    padding: 10px;
+    margin-left: 5px;
+    text-decoration: none;
+    color: black;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+input {
+    float: right;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+h1 {
+    padding-left: 15px;
+}
+
+h2 {
+    padding-left: 35px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    padding: 15px;
+}
+
+div.BP {
+    margin-left: 107px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.Meio {
+    position: absolute;
+    margin-top: -352px;
+    margin-left: 450px;
+}
+
+div.MP {
+    position: absolute;
+    margin-top: -20px;
+    margin-left: 487px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.Fim {
+    position: absolute;
+    margin-top: -352px;
+    margin-left: 895px;
+}
+
+div.FP {
+    position: absolute;
+    margin-top: -18px;
+    margin-left: 980px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    padding: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+div.C {
+    margin-left: 115px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.A {
+    position: absolute;
+    margin-top: -353px;
+    margin-left: 330px;
+}
+
+div.T {
+    margin-top: -22px;
+    margin-left: 465px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.E {
+    position: absolute;
+    margin-top: -355px;
+    margin-left: 670px;
+}
+
+div.G {
+    margin-top: -22px;
+    margin-left: 780px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.O {
+    position: absolute;
+    margin-top: -355px;
+    margin-left: 1010px;
+}
+
+div.RIA {
+    margin-top: -22px;
+    margin-left: 1150px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
