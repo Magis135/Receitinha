@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Receitomania: Receita de Bolo de Milho</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <h1>Como preparar</h1>
+
+    <img src="https://assets.unileversolutions.com/recipes-v2/244092.jpg?imwidth=500" alt="">
+
+    <h2>Ingredientes</h2>
+
+    <ul>
+        <li>4 ovos</li>
+        <li>400 gramas de milho verde (2 latas ou 3 espigas)</li>
+        <li>1 pitada de sal</li>
+        <li>1 xícara de chá de óleo</li>
+        <li>1 xícara de chá de leite</li>
+        <li>2 xícaras de chá de açúcar</li>
+        <li>1/2 xícara de chá de farinha de trigo</li>
+        <li>1/2 xícara de chá de Amido de Milho Maizena</li>
+        <li>1 colher de sopa de fermento em pó</li>
+        <li>2 colheres de sopa de coco ralado (opcional)</li>
+    </ul>
+
+    <h3>Modo de preparo</h3>
+
+    <ol>
+        <li>Pré-aqueça o forno em temperatura média (180° C).</li>
+        <li>Unte e enfarinhe uma assadeira retangular média.</li>
+        <li>No copo do liquidificador, coloque os ovos, o milho, o sal, o óleo, o leite e o açúcar, e bata até ficar homogêneo.</li>
+        <li>Acrescente a farinha de trigo, a MAIZENA® e o fermento, e bata novamente.</li>
+        <li>Disponha a massa na assadeira, polvilhe na superfície o coco ralado e leve ao forno por 45 minutos, ou até que um palito, depois de espetado na massa saia limpo.</li>
+        <li>Retire o forno, deixe esfriar, desenforme e corte em quadrados. Sirva a seguir!</li>
+    </ol>
+
+    <footer>
+        <a href="index.html">Volte a Página Principal</a>
+    </footer>
+</body>
+</html>
